@@ -10,5 +10,5 @@ Carpeta de pruebas para el carge de archivos en **GitHub**
 * PRUEBA2
 * PRUEBA3
 
-_Creado por David C_
+_Creado por David Cuervo_
 
